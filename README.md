@@ -10,7 +10,7 @@ Follow these steps to install the required dependencies and set up the project.
 
 ### 1. Clone the Repository
 ```sh
-$ git clone <repository_link>
+$ git clone <(https://github.com/22BCS16084/Arogo-AI-Mnetal-Health-Project)>
 $ cd <repository_folder>
 ```
 
